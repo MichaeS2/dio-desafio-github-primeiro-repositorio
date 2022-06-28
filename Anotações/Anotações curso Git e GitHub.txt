@@ -1,0 +1,5 @@
+# Curso de introdução ao Git e GitHub
+
+Neste curso aprendemos a utilizar o Git, usando principalmente do Git Bash.
+
+Tivemos também instruções sobre o uso do GitHub, e como podemos melhorar nosso perfil dentro da plataforma.  
